@@ -36,7 +36,8 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Perwez087&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <h2>📈 My GitHub Activity</h2>
+  <img width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Perwez087&theme=tokyonight&hide_border=true" alt="Perwez's GitHub Contribution Graph" />
 </div>
 
 <!-- Fun Facts Section -->
