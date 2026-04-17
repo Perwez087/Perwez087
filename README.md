@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;MERN+Stack+Developer;Building+AI+Powered+Apps;Open+Source+Contributor" />
 
 <p>
-  <a href="https://www.linkedin.com/in/perwez-alam-08b429191/">
+  <a href="www.linkedin.com/in/alam-perwez">
     <img src="https://img.shields.io/badge/LinkedIn-Perwez%20Alam-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:perwezalam087@gmail.com">
